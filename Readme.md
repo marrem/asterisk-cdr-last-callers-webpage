@@ -1,4 +1,4 @@
-# Last 10 caller / Asterisk cdr db
+# Last 10 callers / Asterisk cdr db
 
 Put the project on a php enabled webserver.
 Php should be able to connect to a mysql/maria database.
